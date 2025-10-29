@@ -1,0 +1,862 @@
+[
+  {
+    "ACORN": "A small nut that falls from oak trees in autumn, symbolizing growth and potential.",
+    "WORDS": [
+      {
+        "LETTER": "A",
+        "WORD": "Amber",
+        "HINT": "the warm golden hue of autumn leaves"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Crisp",
+        "HINT": "the cool, refreshing air of fall mornings"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Orchard",
+        "HINT": "a grove of apple trees ripe for autumn picking"
+      },
+      {
+        "LETTER": "R",
+        "WORD": "Rust",
+        "HINT": "the reddish-brown tone of weathered leaves and wood"
+      },
+      {
+        "LETTER": "N",
+        "WORD": "Nestle",
+        "HINT": "to snuggle or settle in cozily as temperatures drop"
+      }
+    ]
+  },
+  {
+    "BLACKBERRY": "A sweet, dark fruit found on brambles in late summer and early fall.",
+    "WORDS": [
+      {
+        "LETTER": "B",
+        "WORD": "Brambles",
+        "HINT": "thorny bushes where wild berries grow"
+      },
+      {
+        "LETTER": "L",
+        "WORD": "Leaves",
+        "HINT": "turning shades of red and gold nearby"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Autumn",
+        "HINT": "the season of harvest and fading warmth"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Cobbler",
+        "HINT": "a baked dessert filled with fruit"
+      },
+      {
+        "LETTER": "K",
+        "WORD": "Knotted",
+        "HINT": "tangled vines that twist and curl"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Bushes",
+        "HINT": "low shrubs that hide ripened berries"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Evening",
+        "HINT": "when the air cools and dew begins to form"
+      },
+      {
+        "LETTER": "R",
+        "WORD": "Ripen",
+        "HINT": "berries darken as they reach their sweetest point"
+      },
+      {
+        "LETTER": "R",
+        "WORD": "Rustle",
+        "HINT": "the sound of small animals foraging beneath"
+      },
+      {
+        "LETTER": "Y",
+        "WORD": "Yield",
+        "HINT": "a basket full after a careful harvest"
+      }
+    ]
+  },
+  {
+    "BOOKS": "Stacks of pages and stories to curl up with by the fire.",
+    "WORDS": [
+      {
+        "LETTER": "B",
+        "WORD": "Blanket",
+        "HINT": "soft and warm while reading"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Oak",
+        "HINT": "a sturdy tree that often shelters readers"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "October",
+        "HINT": "the perfect month for cozy stories"
+      },
+      {
+        "LETTER": "K",
+        "WORD": "Kindle",
+        "HINT": "to spark warmth or imagination"
+      },
+      {
+        "LETTER": "S",
+        "WORD": "Silence",
+        "HINT": "the peaceful quiet that surrounds a good read"
+      }
+    ]
+  },
+  {
+    "CAKE": "A sweet treat often shared during autumn gatherings and celebrations.",
+    "WORDS": [
+      {
+        "LETTER": "C",
+        "WORD": "Cinnamon",
+        "HINT": "a spice that warms every bite"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Apple",
+        "HINT": "baked into comforting autumn desserts"
+      },
+      {
+        "LETTER": "K",
+        "WORD": "Knife",
+        "HINT": "cuts a slice for everyone to share"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Evening",
+        "HINT": "a perfect time for something sweet"
+      }
+    ]
+  },
+  {
+    "CANDLES": "Softly glowing lights that bring warmth to cool autumn nights.",
+    "WORDS": [
+      {
+        "LETTER": "C",
+        "WORD": "Cozy",
+        "HINT": "a feeling of comfort and warmth"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Amber",
+        "HINT": "the color of flickering flame"
+      },
+      {
+        "LETTER": "N",
+        "WORD": "Nightfall",
+        "HINT": "when candles are lit"
+      },
+      {
+        "LETTER": "D",
+        "WORD": "Drift",
+        "HINT": "the gentle waft of scented smoke"
+      },
+      {
+        "LETTER": "L",
+        "WORD": "Light",
+        "HINT": "soft glow illuminating the room"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Ember",
+        "HINT": "burning softly as the wax melts"
+      },
+      {
+        "LETTER": "S",
+        "WORD": "Soothe",
+        "HINT": "bringing calm to the senses"
+      }
+    ]
+  },
+  {
+    "CHESTNUT": "A shiny brown nut roasted and shared on chilly days.",
+    "WORDS": [
+      {
+        "LETTER": "C",
+        "WORD": "Crackle",
+        "HINT": "the sound of roasting over fire"
+      },
+      {
+        "LETTER": "H",
+        "WORD": "Harvest",
+        "HINT": "the season for gathering nuts"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Earthy",
+        "HINT": "rich aroma as shells split open"
+      },
+      {
+        "LETTER": "S",
+        "WORD": "Steam",
+        "HINT": "rising as they cool"
+      },
+      {
+        "LETTER": "T",
+        "WORD": "Toast",
+        "HINT": "warm, slightly sweet flavor"
+      },
+      {
+        "LETTER": "N",
+        "WORD": "Nut",
+        "HINT": "a symbol of autumn bounty"
+      },
+      {
+        "LETTER": "U",
+        "WORD": "Umbra",
+        "HINT": "shadow of trees where they fall"
+      },
+      {
+        "LETTER": "T",
+        "WORD": "Tumble",
+        "HINT": "rolling across fallen leaves"
+      }
+    ]
+  },
+  {
+    "COFFEE": "A warm, aromatic drink to start crisp mornings right.",
+    "WORDS": [
+      {
+        "LETTER": "C",
+        "WORD": "Cup",
+        "HINT": "held in both hands for warmth"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Oak",
+        "HINT": "table surface where mugs rest"
+      },
+      {
+        "LETTER": "F",
+        "WORD": "Froth",
+        "HINT": "bubbles atop the morning brew"
+      },
+      {
+        "LETTER": "F",
+        "WORD": "Fireplace",
+        "HINT": "where you sip and watch the flames"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Espresso",
+        "HINT": "strong and invigorating"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Evening",
+        "HINT": "when a second cup feels right"
+      }
+    ]
+  },
+  {
+    "FLOWERPOT": "A humble home for plants that brighten autumn windowsills.",
+    "WORDS": [
+      {
+        "LETTER": "F",
+        "WORD": "Fern",
+        "HINT": "green life thriving in shade"
+      },
+      {
+        "LETTER": "L",
+        "WORD": "Loam",
+        "HINT": "rich, earthy soil beneath"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Overflow",
+        "HINT": "petals spilling over edges"
+      },
+      {
+        "LETTER": "W",
+        "WORD": "Water",
+        "HINT": "nourishment for the roots"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Earth",
+        "HINT": "the scent after rain"
+      },
+      {
+        "LETTER": "R",
+        "WORD": "Rust",
+        "HINT": "tinge of age on metal pots"
+      },
+      {
+        "LETTER": "P",
+        "WORD": "Petal",
+        "HINT": "delicate and colorful"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "October",
+        "HINT": "month when blooms begin to fade"
+      },
+      {
+        "LETTER": "T",
+        "WORD": "Terracotta",
+        "HINT": "warm clay used for classic pots"
+      }
+    ]
+  },
+  {
+    "HAWTHORN": "A tree with red berries that stay bright through autumn frost.",
+    "WORDS": [
+      {
+        "LETTER": "H",
+        "WORD": "Hedge",
+        "HINT": "where the hawthorn often grows"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Amber",
+        "HINT": "color of its fading leaves"
+      },
+      {
+        "LETTER": "W",
+        "WORD": "Wind",
+        "HINT": "shaking loose the last berries"
+      },
+      {
+        "LETTER": "T",
+        "WORD": "Thorns",
+        "HINT": "sharp branches that protect its fruit"
+      },
+      {
+        "LETTER": "H",
+        "WORD": "Harvest",
+        "HINT": "a time to gather hawthorn for tea"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Orchard",
+        "HINT": "nearby trees share the same season"
+      },
+      {
+        "LETTER": "R",
+        "WORD": "Red",
+        "HINT": "vivid color of its berries"
+      },
+      {
+        "LETTER": "N",
+        "WORD": "Nest",
+        "HINT": "birds shelter among its branches"
+      }
+    ]
+  },
+  {
+    "HEDGEHOG": "A small creature that curls up in leaves for winter rest.",
+    "WORDS": [
+      {
+        "LETTER": "H",
+        "WORD": "Hibernate",
+        "HINT": "sleeping through the cold months"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Ears",
+        "HINT": "tiny and alert before bedtime"
+      },
+      {
+        "LETTER": "D",
+        "WORD": "Dusk",
+        "HINT": "the time they emerge to forage"
+      },
+      {
+        "LETTER": "G",
+        "WORD": "Grass",
+        "HINT": "where they rustle quietly"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Eden",
+        "HINT": "a garden safe and cozy"
+      },
+      {
+        "LETTER": "H",
+        "WORD": "Hideaway",
+        "HINT": "nest of twigs and dry leaves"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Oak",
+        "HINT": "tree whose leaves form their blanket"
+      },
+      {
+        "LETTER": "G",
+        "WORD": "Gentle",
+        "HINT": "nature of this quiet wanderer"
+      }
+    ]
+  },
+  {
+    "KITE": "A playful shape soaring high in autumn breezes.",
+    "WORDS": [
+      {
+        "LETTER": "K",
+        "WORD": "Kindred",
+        "HINT": "spirits lifted by the wind"
+      },
+      {
+        "LETTER": "I",
+        "WORD": "Idle",
+        "HINT": "clouds drifting lazily by"
+      },
+      {
+        "LETTER": "T",
+        "WORD": "Twine",
+        "HINT": "string that holds and guides it"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Ethereal",
+        "HINT": "graceful and light in motion"
+      }
+    ]
+  },
+  {
+    "OVEN": "The heart of autumn kitchens where warmth and sweetness dwell.",
+    "WORDS": [
+      {
+        "LETTER": "O",
+        "WORD": "Ovenlight",
+        "HINT": "golden glow on rising dough"
+      },
+      {
+        "LETTER": "V",
+        "WORD": "Vanilla",
+        "HINT": "scent filling the room"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Ember",
+        "HINT": "flickering warmth like the hearth"
+      },
+      {
+        "LETTER": "N",
+        "WORD": "Nutmeg",
+        "HINT": "spice that defines the season"
+      }
+    ]
+  },
+  {
+    "OWL": "A wise creature watching over quiet autumn nights.",
+    "WORDS": [
+      {
+        "LETTER": "O",
+        "WORD": "Oak",
+        "HINT": "tree where it perches"
+      },
+      {
+        "LETTER": "W",
+        "WORD": "Whisper",
+        "HINT": "the soft sound of wings"
+      },
+      {
+        "LETTER": "L",
+        "WORD": "Lantern",
+        "HINT": "its glowing eyes in the dark"
+      }
+    ]
+  },
+  {
+    "PUMPKIN": "A bright orange symbol of harvest, hearth, and Halloween.",
+    "WORDS": [
+      {
+        "LETTER": "P",
+        "WORD": "Patch",
+        "HINT": "where pumpkins grow in rows"
+      },
+      {
+        "LETTER": "U",
+        "WORD": "Umbra",
+        "HINT": "the shadow beneath their vines"
+      },
+      {
+        "LETTER": "M",
+        "WORD": "Muffin",
+        "HINT": "sweet treat baked from puree"
+      },
+      {
+        "LETTER": "P",
+        "WORD": "Pie",
+        "HINT": "classic dessert of the season"
+      },
+      {
+        "LETTER": "K",
+        "WORD": "Kindle",
+        "HINT": "warmth and light of October"
+      },
+      {
+        "LETTER": "I",
+        "WORD": "Ivy",
+        "HINT": "creeping near their stems"
+      },
+      {
+        "LETTER": "N",
+        "WORD": "Nightfall",
+        "HINT": "when jack-o’-lanterns glow"
+      }
+    ]
+  },
+  {
+    "ROSEHIP": "A red fruit of wild roses that ripens after the bloom fades.",
+    "WORDS": [
+      {
+        "LETTER": "R",
+        "WORD": "Rust",
+        "HINT": "color of autumn and old petals"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Orchard",
+        "HINT": "near where wild roses grow"
+      },
+      {
+        "LETTER": "S",
+        "WORD": "Scarlet",
+        "HINT": "vivid shade of the ripe fruit"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Elder",
+        "HINT": "a shrub that shares the season"
+      },
+      {
+        "LETTER": "H",
+        "WORD": "Harvest",
+        "HINT": "time to gather for tea"
+      },
+      {
+        "LETTER": "I",
+        "WORD": "Infuse",
+        "HINT": "to steep into warmth and flavor"
+      },
+      {
+        "LETTER": "P",
+        "WORD": "Petal",
+        "HINT": "what once surrounded the fruit"
+      }
+    ]
+  },
+  {
+    "SCARECROW": "A straw guardian watching over autumn fields.",
+    "WORDS": [
+      {
+        "LETTER": "S",
+        "WORD": "Straw",
+        "HINT": "stuffed inside to form its body"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Crow",
+        "HINT": "the bird it’s meant to scare"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Autumn",
+        "HINT": "the season of its service"
+      },
+      {
+        "LETTER": "R",
+        "WORD": "Rustle",
+        "HINT": "sound of wind in its sleeves"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Eerie",
+        "HINT": "a quiet figure at dusk"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Cornfield",
+        "HINT": "its home among tall stalks"
+      },
+      {
+        "LETTER": "R",
+        "WORD": "Ragged",
+        "HINT": "clothes worn by time"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Overwatch",
+        "HINT": "silent guard of the harvest"
+      },
+      {
+        "LETTER": "W",
+        "WORD": "Whisper",
+        "HINT": "wind passing through the straw"
+      }
+    ]
+  },
+  {
+    "SHROOM-1": "A small brown mushroom growing in damp autumn woods.",
+    "WORDS": [
+      {
+        "LETTER": "S",
+        "WORD": "Soil",
+        "HINT": "rich and moist beneath the leaves"
+      },
+      {
+        "LETTER": "H",
+        "WORD": "Hidden",
+        "HINT": "tucked under fallen branches"
+      },
+      {
+        "LETTER": "R",
+        "WORD": "Rain",
+        "HINT": "brings them sprouting overnight"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Oak",
+        "HINT": "tree that shades the forest floor"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Organic",
+        "HINT": "living matter breaking down"
+      },
+      {
+        "LETTER": "M",
+        "WORD": "Moss",
+        "HINT": "soft carpet surrounding its stem"
+      }
+    ]
+  },
+  {
+    "SHROOM-2": "A bright red mushroom with white speckles — a fairytale sight.",
+    "WORDS": [
+      {
+        "LETTER": "S",
+        "WORD": "Spotted",
+        "HINT": "distinct white dots on its cap"
+      },
+      {
+        "LETTER": "H",
+        "WORD": "Habitat",
+        "HINT": "cool, damp forest ground"
+      },
+      {
+        "LETTER": "R",
+        "WORD": "Rooted",
+        "HINT": "anchored among pine needles"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Oddity",
+        "HINT": "a mushroom that stands out"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Overcast",
+        "HINT": "sky under which it thrives"
+      },
+      {
+        "LETTER": "M",
+        "WORD": "Mycelium",
+        "HINT": "network beneath the surface"
+      }
+    ]
+  },
+  {
+    "UMBRELLA": "A shelter from autumn drizzle and falling leaves.",
+    "WORDS": [
+      {
+        "LETTER": "U",
+        "WORD": "Under",
+        "HINT": "where you stay dry"
+      },
+      {
+        "LETTER": "M",
+        "WORD": "Mist",
+        "HINT": "light rain filling the air"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Breeze",
+        "HINT": "cool and constant companion"
+      },
+      {
+        "LETTER": "R",
+        "WORD": "Rain",
+        "HINT": "pattering softly above"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Evening",
+        "HINT": "when the drizzle turns to calm"
+      },
+      {
+        "LETTER": "L",
+        "WORD": "Leaves",
+        "HINT": "fluttering and sticking to fabric"
+      },
+      {
+        "LETTER": "L",
+        "WORD": "Laneway",
+        "HINT": "pathway you walk under gray skies"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Amber",
+        "HINT": "streetlights glowing through raindrops"
+      }
+    ]
+  },
+  {
+    "WINDMILL": "A tower turning with autumn breezes across open fields.",
+    "WORDS": [
+      {
+        "LETTER": "W",
+        "WORD": "Whirl",
+        "HINT": "motion of the spinning blades"
+      },
+      {
+        "LETTER": "I",
+        "WORD": "Idle",
+        "HINT": "when the wind finally rests"
+      },
+      {
+        "LETTER": "N",
+        "WORD": "Nostalgia",
+        "HINT": "feeling stirred by countryside air"
+      },
+      {
+        "LETTER": "D",
+        "WORD": "Dust",
+        "HINT": "carried by the autumn wind"
+      },
+      {
+        "LETTER": "M",
+        "WORD": "Meadow",
+        "HINT": "the land it watches over"
+      },
+      {
+        "LETTER": "I",
+        "WORD": "Iron",
+        "HINT": "strong frame built to last"
+      },
+      {
+        "LETTER": "L",
+        "WORD": "Lilt",
+        "HINT": "gentle sound of turning blades"
+      },
+      {
+        "LETTER": "L",
+        "WORD": "Light",
+        "HINT": "fading as the sun dips low"
+      }
+    ]
+  },
+  {
+    "LEAF-1": "A golden leaf drifting slowly to the ground on a quiet autumn morning.",
+    "WORDS": [
+      {
+        "LETTER": "L",
+        "WORD": "Light",
+        "HINT": "the sun filtering through the trees"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Edge",
+        "HINT": "crisp and curling as it dries"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Air",
+        "HINT": "cool breeze carrying it downward"
+      },
+      {
+        "LETTER": "F",
+        "WORD": "Fall",
+        "HINT": "the season and the motion itself"
+      }
+    ]
+  },
+  {
+    "LEAF-2": "A deep red maple leaf pressed between book pages as a keepsake.",
+    "WORDS": [
+      {
+        "LETTER": "L",
+        "WORD": "Layer",
+        "HINT": "flattened gently to preserve shape"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Ember",
+        "HINT": "its glowing hue in afternoon light"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Autumn",
+        "HINT": "the time when it was gathered"
+      },
+      {
+        "LETTER": "F",
+        "WORD": "Forever",
+        "HINT": "kept as a memory of the season"
+      }
+    ]
+  },
+  {
+    "LEAF-3": "A green leaf still clinging to its branch, last of the summer’s holdouts.",
+    "WORDS": [
+      {
+        "LETTER": "L",
+        "WORD": "Linger",
+        "HINT": "refusing to fall just yet"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Early",
+        "HINT": "still touched with hints of summer"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Alive",
+        "HINT": "its veins still bright with color"
+      },
+      {
+        "LETTER": "F",
+        "WORD": "Fragile",
+        "HINT": "soon to fade with the cold"
+      }
+    ]
+  },
+  {
+    "LEAF-4": "A brown oak leaf spinning and tumbling across a forest path.",
+    "WORDS": [
+      {
+        "LETTER": "L",
+        "WORD": "Lifted",
+        "HINT": "caught by a wandering gust"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Echo",
+        "HINT": "of footsteps crunching nearby"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Amber",
+        "HINT": "tone deepened by time and sun"
+      },
+      {
+        "LETTER": "F",
+        "WORD": "Flutter",
+        "HINT": "the dance before it comes to rest"
+      }
+    ]
+  }
+]
