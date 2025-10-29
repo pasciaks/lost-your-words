@@ -1,11 +1,5 @@
 # lost-your-words
 
-1.. Portuguese Word List
-
-2.. Unkown Word List
-
----
-
 You can contribute to this collection. Simply clone this repository and add your own gd#.json and gl#.json files in proper format.
 
 Then submit a pull request.
