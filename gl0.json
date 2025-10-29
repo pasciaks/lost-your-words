@@ -1,26 +1,98 @@
 [
-  "acorn",
-  "blackberry",
-  "books",
-  "cake",
-  "candles",
-  "chestnut",
-  "coffee",
-  "flowerpot",
-  "hawthorn",
-  "hedgehog",
-  "kite",
-  "oven",
-  "owl",
-  "pumpkin",
-  "rosehip",
-  "scarecrow",
-  "shroom-1",
-  "shroom-2",
-  "umbrella",
-  "windmill",
-  "leaf-1",
-  "leaf-2",
-  "leaf-3",
-  "leaf-4"
+  {
+    "levelName": "acorn",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "blackberry",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "books",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "cake",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "candles",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "chestnut",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "coffee",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "flowerpot",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "hawthorn",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "hedgehog",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "kite",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "oven",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "owl",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "pumpkin",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "rosehip",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "scarecrow",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "shroom-1",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "shroom-2",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "umbrella",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "windmill",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "leaf-1",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "leaf-2",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "leaf-3",
+    "difficulty": "Easy"
+  },
+  {
+    "levelName": "leaf-4",
+    "difficulty": "Easy"
+  }
 ]
