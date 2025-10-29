@@ -1,0 +1,28 @@
+[
+  {
+    "PORTUGUESE": "Romance language with rich vowel sounds and a notable nasal quality, widely spoken in South America due to its colonial history.",
+    "LANGUAGE": "pt",
+    "WORDS": [
+      {
+        "LETTER": "O",
+        "WORD": "Olá",
+        "HINT": "Hello"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Adeus",
+        "HINT": "Goodbye"
+      },
+      {
+        "LETTER": "P",
+        "WORD": "Por_favor",
+        "HINT": "Please"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Obrigado",
+        "HINT": "Thank you"
+      }
+    ]
+  }
+]
