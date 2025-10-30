@@ -4,6 +4,8 @@ Submitted to Cozy Game Jam 2025 at itch.io
 
 [Cozy Fall Jam 2025 Entry](https://itch.io/jam/cozy-fall-jam-2025/rate/3983378)
 
+[Playable self-hosted version](http://lostwords.org/Lost%20Your%20Words)
+
 You can contribute to this collection. Simply clone this repository and add your own gd#.json and gl#.json files in proper format.
 
 Then submit a pull request.
