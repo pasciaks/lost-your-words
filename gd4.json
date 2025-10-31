@@ -1,116 +1,111 @@
 [
   {
-    "SPANISH": "A Romance language with clear pronunciation and global reach, spoken across Spain, Latin America, and beyond.",
-    "LANGUAGE": "es",
+    "FRENCH": "A Romance language known for its elegance and nasal sounds, spoken widely across Europe, Africa, and parts of North America.",
+    "LANGUAGE": "fr",
     "WORDS": [
       {
-        "LETTER": "H",
-        "WORD": "Hola",
-        "HINT": "Hello"
+        "LETTER": "B",
+        "WORD": "Bonjour",
+        "HINT": "Hello / Good morning"
       },
       {
         "LETTER": "A",
-        "WORD": "Adiós",
+        "WORD": "Au_revoir",
         "HINT": "Goodbye"
       },
       {
-        "LETTER": "P",
-        "WORD": "Por_favor",
+        "LETTER": "S",
+        "WORD": "S’il_vous_plaît",
         "HINT": "Please"
       },
       {
-        "LETTER": "G",
-        "WORD": "Gracias",
+        "LETTER": "M",
+        "WORD": "Merci",
         "HINT": "Thank you"
       },
       {
-        "LETTER": "S",
-        "WORD": "Sí",
+        "LETTER": "O",
+        "WORD": "Oui",
         "HINT": "Yes"
       },
       {
         "LETTER": "N",
-        "WORD": "No",
+        "WORD": "Non",
         "HINT": "No"
       },
       {
         "LETTER": "B",
-        "WORD": "Buenos_días",
-        "HINT": "Good morning"
+        "WORD": "Bonsoir",
+        "HINT": "Good evening"
       },
       {
         "LETTER": "B",
-        "WORD": "Buenas_tardes",
-        "HINT": "Good afternoon"
-      },
-      {
-        "LETTER": "B",
-        "WORD": "Buenas_noches",
+        "WORD": "Bonne_nuit",
         "HINT": "Good night"
       },
       {
         "LETTER": "C",
-        "WORD": "Cómo_estás",
+        "WORD": "Comment_ça_va",
         "HINT": "How are you?"
       },
       {
-        "LETTER": "M",
-        "WORD": "Muy_bien",
+        "LETTER": "T",
+        "WORD": "Très_bien",
         "HINT": "Very well"
       },
       {
-        "LETTER": "P",
-        "WORD": "Perdón",
+        "LETTER": "E",
+        "WORD": "Excusez-moi",
         "HINT": "Excuse me / Sorry"
       },
       {
-        "LETTER": "M",
-        "WORD": "Me_llamo",
+        "LETTER": "J",
+        "WORD": "Je_m’appelle",
         "HINT": "My name is"
       },
       {
-        "LETTER": "D",
-        "WORD": "Dónde_está",
+        "LETTER": "O",
+        "WORD": "Où_est",
         "HINT": "Where is"
       },
       {
         "LETTER": "L",
-        "WORD": "La_cuenta",
+        "WORD": "L’addition",
         "HINT": "The bill"
       },
       {
         "LETTER": "U",
-        "WORD": "Uno",
+        "WORD": "Un",
         "HINT": "One"
       },
       {
         "LETTER": "D",
-        "WORD": "Dos",
+        "WORD": "Deux",
         "HINT": "Two"
       },
       {
         "LETTER": "T",
-        "WORD": "Tres",
+        "WORD": "Trois",
         "HINT": "Three"
       },
       {
-        "LETTER": "C",
-        "WORD": "Cuatro",
+        "LETTER": "Q",
+        "WORD": "Quatre",
         "HINT": "Four"
       },
       {
         "LETTER": "C",
-        "WORD": "Cinco",
+        "WORD": "Cinq",
         "HINT": "Five"
       },
       {
-        "LETTER": "A",
-        "WORD": "Agua",
+        "LETTER": "E",
+        "WORD": "Eau",
         "HINT": "Water"
       },
       {
         "LETTER": "P",
-        "WORD": "Pan",
+        "WORD": "Pain",
         "HINT": "Bread"
       },
       {
@@ -120,13 +115,18 @@
       },
       {
         "LETTER": "L",
-        "WORD": "Leche",
+        "WORD": "Lait",
         "HINT": "Milk"
       },
       {
+        "LETTER": "V",
+        "WORD": "Vin",
+        "HINT": "Wine"
+      },
+      {
         "LETTER": "C",
-        "WORD": "Cerveza",
-        "HINT": "Beer"
+        "WORD": "Croissant",
+        "HINT": "Croissant"
       }
     ]
   }
