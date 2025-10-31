@@ -1,7 +1,7 @@
 [
   {
-    "PORTUGUESE": "Romance language with rich vowel sounds and a notable nasal quality, widely spoken in South America due to its colonial history.",
-    "LANGUAGE": "pt",
+    "PORTUGUESE (PORTUGAL)": "European variety of Portuguese, known for its melodic rhythm, older grammatical forms, and influence across Africa and Asia.",
+    "LANGUAGE": "pt-pt",
     "WORDS": [
       {
         "LETTER": "O",
@@ -21,7 +21,122 @@
       {
         "LETTER": "O",
         "WORD": "Obrigado",
-        "HINT": "Thank you"
+        "HINT": "Thank you (said by a man)"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Obrigada",
+        "HINT": "Thank you (said by a woman)"
+      },
+      {
+        "LETTER": "S",
+        "WORD": "Sim",
+        "HINT": "Yes"
+      },
+      {
+        "LETTER": "N",
+        "WORD": "Não",
+        "HINT": "No"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Bom_dia",
+        "HINT": "Good morning"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Boa_tarde",
+        "HINT": "Good afternoon"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Boa_noite",
+        "HINT": "Good night"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Como_está",
+        "HINT": "How are you?"
+      },
+      {
+        "LETTER": "M",
+        "WORD": "Muito_bem",
+        "HINT": "Very well"
+      },
+      {
+        "LETTER": "D",
+        "WORD": "Desculpe",
+        "HINT": "Excuse me / Sorry"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Com_licença",
+        "HINT": "Excuse me (to pass by)"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Chamo-me",
+        "HINT": "My name is"
+      },
+      {
+        "LETTER": "O",
+        "WORD": "Onde_fica",
+        "HINT": "Where is"
+      },
+      {
+        "LETTER": "Q",
+        "WORD": "Quanto_custa",
+        "HINT": "How much does it cost?"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Água",
+        "HINT": "Water"
+      },
+      {
+        "LETTER": "P",
+        "WORD": "Pão",
+        "HINT": "Bread"
+      },
+      {
+        "LETTER": "L",
+        "WORD": "Leite",
+        "HINT": "Milk"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Café",
+        "HINT": "Coffee"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Cerveja",
+        "HINT": "Beer"
+      },
+      {
+        "LETTER": "V",
+        "WORD": "Vinho",
+        "HINT": "Wine"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Estação",
+        "HINT": "Station"
+      },
+      {
+        "LETTER": "P",
+        "WORD": "Praia",
+        "HINT": "Beach"
+      },
+      {
+        "LETTER": "H",
+        "WORD": "Hotel",
+        "HINT": "Hotel"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Banheiro",
+        "HINT": "Bathroom"
       }
     ]
   }
