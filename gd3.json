@@ -1,0 +1,133 @@
+[
+  {
+    "GERMAN": "A West Germanic language known for its compound words and logical structure, widely spoken in Central Europe.",
+    "LANGUAGE": "de",
+    "WORDS": [
+      {
+        "LETTER": "H",
+        "WORD": "Hallo",
+        "HINT": "Hello"
+      },
+      {
+        "LETTER": "T",
+        "WORD": "Tschüss",
+        "HINT": "Goodbye"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Bitte",
+        "HINT": "Please / You're welcome"
+      },
+      {
+        "LETTER": "D",
+        "WORD": "Danke",
+        "HINT": "Thank you"
+      },
+      {
+        "LETTER": "J",
+        "WORD": "Ja",
+        "HINT": "Yes"
+      },
+      {
+        "LETTER": "N",
+        "WORD": "Nein",
+        "HINT": "No"
+      },
+      {
+        "LETTER": "G",
+        "WORD": "Guten_Morgen",
+        "HINT": "Good morning"
+      },
+      {
+        "LETTER": "G",
+        "WORD": "Guten_Abend",
+        "HINT": "Good evening"
+      },
+      {
+        "LETTER": "G",
+        "WORD": "Gute_Nacht",
+        "HINT": "Good night"
+      },
+      {
+        "LETTER": "W",
+        "WORD": "Wie_geht’s",
+        "HINT": "How are you?"
+      },
+      {
+        "LETTER": "M",
+        "WORD": "Mir_geht’s_gut",
+        "HINT": "I’m fine"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Entschuldigung",
+        "HINT": "Excuse me / Sorry"
+      },
+      {
+        "LETTER": "I",
+        "WORD": "Ich_heiße",
+        "HINT": "My name is"
+      },
+      {
+        "LETTER": "W",
+        "WORD": "Wo_ist",
+        "HINT": "Where is"
+      },
+      {
+        "LETTER": "Z",
+        "WORD": "Zahlen_bitte",
+        "HINT": "The check, please"
+      },
+      {
+        "LETTER": "E",
+        "WORD": "Eins",
+        "HINT": "One"
+      },
+      {
+        "LETTER": "Z",
+        "WORD": "Zwei",
+        "HINT": "Two"
+      },
+      {
+        "LETTER": "D",
+        "WORD": "Drei",
+        "HINT": "Three"
+      },
+      {
+        "LETTER": "V",
+        "WORD": "Vier",
+        "HINT": "Four"
+      },
+      {
+        "LETTER": "F",
+        "WORD": "Fünf",
+        "HINT": "Five"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Brot",
+        "HINT": "Bread"
+      },
+      {
+        "LETTER": "W",
+        "WORD": "Wasser",
+        "HINT": "Water"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Bier",
+        "HINT": "Beer"
+      },
+      {
+        "LETTER": "K",
+        "WORD": "Kaffee",
+        "HINT": "Coffee"
+      },
+      {
+        "LETTER": "M",
+        "WORD": "Milch",
+        "HINT": "Milk"
+      }
+    ]
+  }
+]
