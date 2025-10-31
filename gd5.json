@@ -1,0 +1,138 @@
+[
+  {
+    "ITALIAN": "A Romance language known for its melodic rhythm and expressive gestures, spoken throughout Italy and recognized for its cultural influence in art, music, and cuisine.",
+    "LANGUAGE": "it",
+    "WORDS": [
+      {
+        "LETTER": "C",
+        "WORD": "Ciao",
+        "HINT": "Hello / Goodbye"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Addio",
+        "HINT": "Farewell"
+      },
+      {
+        "LETTER": "P",
+        "WORD": "Per_favore",
+        "HINT": "Please"
+      },
+      {
+        "LETTER": "G",
+        "WORD": "Grazie",
+        "HINT": "Thank you"
+      },
+      {
+        "LETTER": "S",
+        "WORD": "Sì",
+        "HINT": "Yes"
+      },
+      {
+        "LETTER": "N",
+        "WORD": "No",
+        "HINT": "No"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Buongiorno",
+        "HINT": "Good morning"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Buon_pomeriggio",
+        "HINT": "Good afternoon"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Buonasera",
+        "HINT": "Good evening"
+      },
+      {
+        "LETTER": "B",
+        "WORD": "Buonanotte",
+        "HINT": "Good night"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Come_stai",
+        "HINT": "How are you?"
+      },
+      {
+        "LETTER": "S",
+        "WORD": "Sto_bene",
+        "HINT": "I’m fine"
+      },
+      {
+        "LETTER": "S",
+        "WORD": "Scusa",
+        "HINT": "Excuse me / Sorry"
+      },
+      {
+        "LETTER": "M",
+        "WORD": "Mi_chiamo",
+        "HINT": "My name is"
+      },
+      {
+        "LETTER": "D",
+        "WORD": "Dove_è",
+        "HINT": "Where is"
+      },
+      {
+        "LETTER": "I",
+        "WORD": "Il_conto",
+        "HINT": "The bill"
+      },
+      {
+        "LETTER": "U",
+        "WORD": "Uno",
+        "HINT": "One"
+      },
+      {
+        "LETTER": "D",
+        "WORD": "Due",
+        "HINT": "Two"
+      },
+      {
+        "LETTER": "T",
+        "WORD": "Tre",
+        "HINT": "Three"
+      },
+      {
+        "LETTER": "Q",
+        "WORD": "Quattro",
+        "HINT": "Four"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Cinque",
+        "HINT": "Five"
+      },
+      {
+        "LETTER": "A",
+        "WORD": "Acqua",
+        "HINT": "Water"
+      },
+      {
+        "LETTER": "P",
+        "WORD": "Pane",
+        "HINT": "Bread"
+      },
+      {
+        "LETTER": "C",
+        "WORD": "Caffè",
+        "HINT": "Coffee"
+      },
+      {
+        "LETTER": "L",
+        "WORD": "Latte",
+        "HINT": "Milk"
+      },
+      {
+        "LETTER": "V",
+        "WORD": "Vino",
+        "HINT": "Wine"
+      }
+    ]
+  }
+]

@@ -23,5 +23,10 @@
     "levelName": "French",
     "difficulty": "Easy",
     "number": "4"
+  },
+  {
+    "levelName": "Italian",
+    "difficulty": "Easy",
+    "number": "5"
   }
 ]
